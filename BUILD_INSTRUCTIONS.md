@@ -31,11 +31,20 @@ The release build is currently signed with the **Android debug key** (the Flutte
 
 Also change `applicationId` (`com.reeldrama.app`) if you publish under a different identity.
 
-## Regenerating the demo catalog
+## Refreshing the catalogs
+The bundled catalogs (`reeldrama/assets/dramabox_catalog.json`, `reeldrama/assets/reelshort_catalog.json`) are generated from APIShort by `tools/fetch_apishort_catalog.py`. That script and the `.env` file holding `APISHORT_API_KEY` are kept out of the repository.
+```sh
+python3 tools/fetch_apishort_catalog.py --platform dramabox --out reeldrama/assets/dramabox_catalog.json
+python3 tools/fetch_apishort_catalog.py --platform reelshort --out reeldrama/assets/reelshort_catalog.json
+```
+DramaBox episode links are signed and expire, so refresh both catalogs and rebuild the APK before each release.
+
+## Creative Commons demo catalog (optional, not bundled)
+`tools/build_demo_catalog.py` builds a catalog of Blender open movies from Wikimedia Commons, useful for demos without licensed content:
 ```sh
 curl -G 'https://commons.wikimedia.org/w/api.php' --data-urlencode action=query --data-urlencode format=json \
   --data-urlencode prop=videoinfo --data-urlencode 'viprop=url|size|mediatype|extmetadata|derivatives' \
   --data-urlencode viurlwidth=480 --data-urlencode 'titles=File:Big Buck Bunny 4K.webm|…' > tools/commons_videoinfo.json
 python3 tools/build_demo_catalog.py tools/commons_videoinfo.json   # writes reeldrama/assets/demo_catalog.json
 ```
-The title list and original descriptions are in `tools/build_demo_catalog.py` (`META`).
+To use it, list `assets/demo_catalog.json` in `pubspec.yaml` and in `CatalogService.bundledAssets` (`lib/data/drama_repository.dart`).

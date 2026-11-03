@@ -21,13 +21,14 @@ Short-drama home layout (full-bleed featured hero with **Discover / For you** ta
 - No ads, no analytics, no accounts
 
 ## Content
-- **Built-in:** 14 Blender open movies (CC BY / CC BY-SA) streamed from Wikimedia Commons, split into 57 short episodes.
+- **Built-in:** two licensed catalogs from APIShort, *DramaBox Trending* and *ReelShort Trending*, with 3 titles each (50–53 episodes per title), in `reeldrama/assets/dramabox_catalog.json` and `reeldrama/assets/reelshort_catalog.json`. Episodes stream from DramaBox's and ReelShort's own CDNs.
+- **Expiring links:** DramaBox episode links are signed and expire. When DramaBox episodes stop playing (HTTP 403), refresh the catalogs and rebuild (BUILD_INSTRUCTIONS.md).
 - **Your own:** Settings → *Add catalog from URL* takes an HTTPS JSON catalog of media you are authorized to stream (format in DATA_MODELS.md).
 
 ## Repository layout
 | Path | Contents |
 |---|---|
-| `reeldrama/` | Flutter project (`lib/`, `test/`, `integration_test/`, `assets/demo_catalog.json`) |
+| `reeldrama/` | Flutter project (`lib/`, `test/`, `integration_test/`, `assets/*_catalog.json`) |
 | `dist/` | Release APK and AAB |
 | `screenshots/` | ReelDrama on the emulator (phone light/dark, tablet, reels player) |
 | `tools/` | Catalog generator, icon generator (`build_icon.py`), adb helpers |
@@ -36,4 +37,4 @@ Short-drama home layout (full-bleed featured hero with **Discover / For you** ta
 PROJECT_STATUS · UI_COMPONENTS · RESPONSIVE_DESIGN · DATA_MODELS · TEST_RESULTS · BUILD_INSTRUCTIONS
 
 ## Credits
-Big Buck Bunny, Sintel, Tears of Steel, Elephants Dream, Spring, Sprite Fright, Charge, Coffee Run, Hero, Wing It!, Singularity, Glass Half, The Daily Dweebs and Caminandes are © Blender Foundation / Blender Studio, under the Creative Commons licenses listed per title in the app. The second Big Buck Bunny stream is Mux's public HLS test stream. The Inter typeface is licensed under the SIL Open Font License (`reeldrama/assets/fonts/OFL.txt`).
+The dramas, posters and videos in the bundled catalogs belong to their respective rights holders and are used under license. The Inter typeface is licensed under the SIL Open Font License (`reeldrama/assets/fonts/OFL.txt`).

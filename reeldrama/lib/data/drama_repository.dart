@@ -7,7 +7,7 @@ import '../core/models.dart';
 
 const userAgent = 'ReelDrama/1.0 (Android; ad-free open-movie player)';
 
-/// Loads catalogs: the bundled Creative Commons demo catalog plus any
+/// Loads catalogs: the bundled DramaBox and ReelShort catalogs plus any
 /// user-imported JSON catalogs (fetched over HTTPS with Dio).
 class CatalogService {
   CatalogService([Dio? dio])

@@ -5,7 +5,7 @@ Last updated: 2026-11-03. Rebuilt as **ReelDrama** with an Apple-style light/dar
 | Phase | Status | Notes |
 |---|---|---|
 | 1. Environment | DONE | macOS arm64 (M3 Pro), Flutter 3.47.3 / Dart 3.13.3, JDK 17, Android SDK 36, AVD `Pixel_7_Pro` |
-| 4. Licensed content | DONE | 14 CC films → 57 episodes, `reeldrama/assets/demo_catalog.json` |
+| 4. Licensed content | DONE | DramaBox and ReelShort catalogs via APIShort (3 titles each), `reeldrama/assets/*_catalog.json` |
 | 5. Flutter app | DONE | `reeldrama/` |
 | 6. Tests | PARTIAL | analyze clean; 25 unit/widget tests pass; the on-device integration test times out on the emulator's slow link (flows checked by hand, TEST_RESULTS.md) |
 | 7. APK/AAB + emulator verification | DONE | `dist/`; release APK checked on a phone (light/dark) and at tablet width |
@@ -15,7 +15,7 @@ Last updated: 2026-11-03. Rebuilt as **ReelDrama** with an Apple-style light/dar
 
 ## Needs your decision
 1. **Production signing.** The APK uses the debug key. Provide or create an upload keystore (BUILD_INSTRUCTIONS.md).
-2. **Content.** For real short dramas, supply a catalog JSON for media you hold rights to.
+2. **Catalog refresh.** DramaBox episode links are signed and expire (HTTP 403). Refresh the catalogs before each release (BUILD_INSTRUCTIONS.md).
 3. **Publishing.** Not done; needs separate authorization.
 
 ## Resume commands
