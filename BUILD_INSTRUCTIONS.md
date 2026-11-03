@@ -39,6 +39,8 @@ python3 tools/fetch_apishort_catalog.py --platform reelshort --out reeldrama/ass
 ```
 DramaBox episode links are signed and expire, so refresh both catalogs and rebuild the APK before each release.
 
+A new owner of the project must use their own APIShort API key; the original key does not transfer (README.md, "Ownership and API access").
+
 ## Creative Commons demo catalog (optional, not bundled)
 `tools/build_demo_catalog.py` builds a catalog of Blender open movies from Wikimedia Commons, useful for demos without licensed content:
 ```sh

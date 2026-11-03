@@ -25,6 +25,11 @@ Short-drama home layout (full-bleed featured hero with **Discover / For you** ta
 - **Expiring links:** DramaBox episode links are signed and expire. When DramaBox episodes stop playing (HTTP 403), refresh the catalogs and rebuild (BUILD_INSTRUCTIONS.md).
 - **Your own:** Settings → *Add catalog from URL* takes an HTTPS JSON catalog of media you are authorized to stream (format in DATA_MODELS.md).
 
+## Ownership and API access
+ReelDrama is a self-initiated project by Luminark Labs. If it is acquired or transferred, the buyer or new owner must use their **own APIShort account and API key**. The current key belongs to Luminark Labs and does not transfer with the code. The new owner also needs their own rights to stream the content they publish.
+
+To switch to a new key, put it in `.env` as `APISHORT_API_KEY=…` (the file is not in the repository), then refresh the catalogs and rebuild (BUILD_INSTRUCTIONS.md).
+
 ## Repository layout
 | Path | Contents |
 |---|---|
