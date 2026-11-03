@@ -1,0 +1,3626 @@
+{
+  "id": "apishort-dramabox",
+  "name": "DramaBox Trending",
+  "description": "Top trending short dramas from DramaBox",
+  "dramas": [
+    {
+      "id": "dramabox-42000023802",
+      "title": "He Broke the Heart That Saved Him",
+      "description": "Mia sacrifices everything for her dying lover Vance, never knowing he is Cloud City's greatest heir. To return the future to him, Mia walks away resolutely without telling him she's pregnant. Years later, their child's tragic fate crosses their paths again. Yet vicious lies turn him against her, driving their boy to his death. Since then, Mia has lived in the pain of losing her son, while Vance, upon discovering the truth, will be left to bear the crushing weight of regret.",
+      "poster": "https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000023802/42000023802.jpg?t=1786334002789",
+      "genres": [
+        "Revenge",
+        "Billionaire",
+        "Comeback Story",
+        "Hidden Identity"
+      ],
+      "featured": true,
+      "license": "Provider Stream via APIShort",
+      "attribution": "DramaBox",
+      "sourcePage": "https://www.dramaboxdb.com",
+      "episodes": [
+        {
+          "number": 1,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/9918cb0df09db9cacbabf18573dc4855/6ae79f98/30/2x0/20x8/208x3/20832000024/701458203_3/701458203.1080p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/c4b4b93aaa7877408729c0739cddc3fc/6ae79f98/30/2x0/20x8/208x3/20832000024/701458203_3/701458203.720p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/b6cea9f7962ca01057db5fe55e443135/6ae79f98/30/2x0/20x8/208x3/20832000024/701458203_3/701458203.540p.wz.h264.mp4"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/b953e7d63359c237a0babcd00a1443d2/6ae79f98/40/2x0/20x8/208x3/20832000024/701458204_3/701458204.1080p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/cbb46ba8331ec7738f9924899a090a8a/6ae79f98/40/2x0/20x8/208x3/20832000024/701458204_3/701458204.720p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/ebb1dbb66455451d3c23cee82b068797/6ae79f98/40/2x0/20x8/208x3/20832000024/701458204_3/701458204.540p.wz.h264.mp4"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/f05ac37a2ff9755a36febcc82e6fd519/6ae79f98/50/2x0/20x8/208x3/20832000024/701458205_3/701458205.1080p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/77ed38fc72ebeab32e5f15c91740d58e/6ae79f98/50/2x0/20x8/208x3/20832000024/701458205_3/701458205.720p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/73d9edac3a390c690af42cbffd525957/6ae79f98/50/2x0/20x8/208x3/20832000024/701458205_3/701458205.540p.wz.h264.mp4"
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/25421ff4f897a636f1cc062b6da28111/6ae79f98/60/2x0/20x8/208x3/20832000024/701458206_3/701458206.1080p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/f7e8cd85333f29ac7f0263ee3ec2fe97/6ae79f98/60/2x0/20x8/208x3/20832000024/701458206_3/701458206.720p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/2f095921b6b45d81429feb936ccd1736/6ae79f98/60/2x0/20x8/208x3/20832000024/701458206_3/701458206.540p.wz.h264.mp4"
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/22a7e0733dca57049da30f8f6f8783ce/6ae79f98/70/2x0/20x8/208x3/20832000024/701458207_3/701458207.1080p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/80efb889ed18f84b67ac46a684348c5a/6ae79f98/70/2x0/20x8/208x3/20832000024/701458207_3/701458207.720p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/0d012b145e3b36451904e58b2e541ee3/6ae79f98/70/2x0/20x8/208x3/20832000024/701458207_3/701458207.540p.wz.h264.mp4"
+            }
+          ]
+        },
+        {
+          "number": 6,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/75775b9750fea7ee45561d9e345a9428/6ae79f98/80/2x0/20x8/208x3/20832000024/701458208_3/701458208.1080p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/5a137b650b8e8b858117199d353f391e/6ae79f98/80/2x0/20x8/208x3/20832000024/701458208_3/701458208.720p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/bd41d715b13dc643478d7ed8785f7dac/6ae79f98/80/2x0/20x8/208x3/20832000024/701458208_3/701458208.540p.wz.h264.mp4"
+            }
+          ]
+        },
+        {
+          "number": 7,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/ee4a3e2e64d5743d72fc8c77ce1fe0a1/6ae79f98/90/2x0/20x8/208x3/20832000024/701458209_3/701458209.1080p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/15afd80fd86481bf2674d091c927a584/6ae79f98/90/2x0/20x8/208x3/20832000024/701458209_3/701458209.720p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/e49f0d1758cf2335e2a9362c9eb678c4/6ae79f98/90/2x0/20x8/208x3/20832000024/701458209_3/701458209.540p.wz.h264.mp4"
+            }
+          ]
+        },
+        {
+          "number": 8,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/08c68c9d6d21286d98f547b92fbcde69/6ae79f98/01/2x0/20x8/208x3/20832000024/701458210_3/701458210.1080p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/c2e25cbe97c7a69c8183165fe06053d8/6ae79f98/01/2x0/20x8/208x3/20832000024/701458210_3/701458210.720p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/cc03761f0329d4515d6c3cd04889f420/6ae79f98/01/2x0/20x8/208x3/20832000024/701458210_3/701458210.540p.wz.h264.mp4"
+            }
+          ]
+        },
+        {
+          "number": 9,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/735268657aa23894153048d05ae9af19/6ae79f98/11/2x0/20x8/208x3/20832000024/701458211_3/701458211.1080p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/be178bbb2bb629b9c6d86c1e4d28d3c3/6ae79f98/11/2x0/20x8/208x3/20832000024/701458211_3/701458211.720p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/79011496b2ed35e3524d22b98d5dbc26/6ae79f98/11/2x0/20x8/208x3/20832000024/701458211_3/701458211.540p.wz.h264.mp4"
+            }
+          ]
+        },
+        {
+          "number": 10,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/29e141623bf39614406088fc9962302f/6ae79f98/21/2x0/20x8/208x3/20832000024/701458212_3/701458212.1080p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/9186940920ecb1c953b3fb0c05d2f2c6/6ae79f98/21/2x0/20x8/208x3/20832000024/701458212_3/701458212.720p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/6f3809c9a1b50208d8fa6ea7413e6a02/6ae79f98/21/2x0/20x8/208x3/20832000024/701458212_3/701458212.540p.wz.h264.mp4"
+            }
+          ]
+        },
+        {
+          "number": 11,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/d17f288dc88bebdf0c24194cae7071f5/6ae79f98/31/2x0/20x8/208x3/20832000024/701458213_3/701458213.1080p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/642074b83b34caf47da3cda399632d14/6ae79f98/31/2x0/20x8/208x3/20832000024/701458213_3/701458213.720p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/d979c3cac3caca38067d48483469f7b8/6ae79f98/31/2x0/20x8/208x3/20832000024/701458213_3/701458213.540p.wz.h264.mp4"
+            }
+          ]
+        },
+        {
+          "number": 12,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/2f646b892e2884f530d5b34209d342d9/6ae79f98/41/2x0/20x8/208x3/20832000024/701458214_3/701458214.1080p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/bd453e50d07c0fecc4bfdd48434fb5f1/6ae79f98/41/2x0/20x8/208x3/20832000024/701458214_3/701458214.720p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/8b9404061963c2830ebb2efd2e01addf/6ae79f98/41/2x0/20x8/208x3/20832000024/701458214_3/701458214.540p.wz.h264.mp4"
+            }
+          ]
+        },
+        {
+          "number": 13,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/e36700a046cd59ad8a4f4d9b5f4da8aa/6ae79f98/51/2x0/20x8/208x3/20832000024/701458215_3/701458215.1080p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/be5a33faf7c46f8e5094146e49c2614c/6ae79f98/51/2x0/20x8/208x3/20832000024/701458215_3/701458215.720p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/affb8329a3425019b9f1f52fff6e3895/6ae79f98/51/2x0/20x8/208x3/20832000024/701458215_3/701458215.540p.wz.h264.mp4"
+            }
+          ]
+        },
+        {
+          "number": 14,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/f5ac4a6aa7b9c1309ef3e6017e63a52d/6ae79f98/61/2x0/20x8/208x3/20832000024/701458216_3/701458216.1080p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/201fb5ed2bd03f9d4eff095e2a1a2738/6ae79f98/61/2x0/20x8/208x3/20832000024/701458216_3/701458216.720p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/86320a119330abf887b9e0d50bf67595/6ae79f98/61/2x0/20x8/208x3/20832000024/701458216_3/701458216.540p.wz.h264.mp4"
+            }
+          ]
+        },
+        {
+          "number": 15,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/cf8c54dd6cbf9956574bbfc608e6ba70/6ae79f98/71/2x0/20x8/208x3/20832000024/701458217_3/701458217.1080p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/0961e23011c1555c1b77ee8349e51c07/6ae79f98/71/2x0/20x8/208x3/20832000024/701458217_3/701458217.720p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/6fffbf6d81d1b085dfc97b149c98aa2f/6ae79f98/71/2x0/20x8/208x3/20832000024/701458217_3/701458217.540p.wz.h264.mp4"
+            }
+          ]
+        },
+        {
+          "number": 16,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/5dae53a47af89dc5fe92c3bf6e8f2f54/6ae79f98/81/2x0/20x8/208x3/20832000024/701458218_3/701458218.1080p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/945100dcc110affbaf05c7e2dd2d974c/6ae79f98/81/2x0/20x8/208x3/20832000024/701458218_3/701458218.720p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/d00dafa453ec467ecda8383db0d0447a/6ae79f98/81/2x0/20x8/208x3/20832000024/701458218_3/701458218.540p.wz.h264.mp4"
+            }
+          ]
+        },
+        {
+          "number": 17,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/55de2553c9c84d69783cbe0bc367ef00/6ae79f98/91/2x0/20x8/208x3/20832000024/701458219_3/701458219.1080p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/3e4f61d017b9284b747febf176a3888b/6ae79f98/91/2x0/20x8/208x3/20832000024/701458219_3/701458219.720p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/eada7c952471c9ae84244addcda9ceb8/6ae79f98/91/2x0/20x8/208x3/20832000024/701458219_3/701458219.540p.wz.h264.mp4"
+            }
+          ]
+        },
+        {
+          "number": 18,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/140b23c28d0a3386a6ce8a5257891a20/6ae79f98/02/2x0/20x8/208x3/20832000024/701458220_3/701458220.1080p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/563684b28f28abc20deb0d119d27f825/6ae79f98/02/2x0/20x8/208x3/20832000024/701458220_3/701458220.720p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/12d26744a9974a0ab5bd8cf8c8dfc8d1/6ae79f98/02/2x0/20x8/208x3/20832000024/701458220_3/701458220.540p.wz.h264.mp4"
+            }
+          ]
+        },
+        {
+          "number": 19,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/5333eef17f80659186abbf9c599e4788/6ae79f98/12/2x0/20x8/208x3/20832000024/701458221_3/701458221.1080p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/f06bb293335a12692fef31124f482be6/6ae79f98/12/2x0/20x8/208x3/20832000024/701458221_3/701458221.720p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/ec8509eaa6199795ce7acaddac5668de/6ae79f98/12/2x0/20x8/208x3/20832000024/701458221_3/701458221.540p.wz.h264.mp4"
+            }
+          ]
+        },
+        {
+          "number": 20,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/29aced2b0e2b1b7a50b2840874463495/6ae79f98/22/2x0/20x8/208x3/20832000024/701458222_3/701458222.1080p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/c3f875c3eb3f381e4f39c06f512b5247/6ae79f98/22/2x0/20x8/208x3/20832000024/701458222_3/701458222.720p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/6953a5ae7a038671a22d33c8bae98cfd/6ae79f98/22/2x0/20x8/208x3/20832000024/701458222_3/701458222.540p.wz.h264.mp4"
+            }
+          ]
+        },
+        {
+          "number": 21,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/40891bf63407f450b4b76c7a1b11afbb/6ae79f98/32/2x0/20x8/208x3/20832000024/701458223_3/701458223.1080p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/7bcaf475968d5882d803132da37da1d1/6ae79f98/32/2x0/20x8/208x3/20832000024/701458223_3/701458223.720p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/b5182063a86b55042c08d2317a0b95bc/6ae79f98/32/2x0/20x8/208x3/20832000024/701458223_3/701458223.540p.wz.h264.mp4"
+            }
+          ]
+        },
+        {
+          "number": 22,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/08db0a899558671be7505962ae8490cf/6ae79f98/42/2x0/20x8/208x3/20832000024/701458224_3/701458224.1080p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/3a184871f9435a80c81365d4da0a77a3/6ae79f98/42/2x0/20x8/208x3/20832000024/701458224_3/701458224.720p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/0ef5afb3c05b103ce233b78b7f74c1df/6ae79f98/42/2x0/20x8/208x3/20832000024/701458224_3/701458224.540p.wz.h264.mp4"
+            }
+          ]
+        },
+        {
+          "number": 23,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/5ef3fbbb3b7aa0bbd97b69c05619dec1/6ae79f98/52/2x0/20x8/208x3/20832000024/701458225_3/701458225.1080p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/441c96b10b9be19141ec546cc16227d0/6ae79f98/52/2x0/20x8/208x3/20832000024/701458225_3/701458225.720p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/a5663ae435535c7ddd129364e77b654f/6ae79f98/52/2x0/20x8/208x3/20832000024/701458225_3/701458225.540p.wz.h264.mp4"
+            }
+          ]
+        },
+        {
+          "number": 24,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/26ce6335fc4d8a8be840703581ea3c87/6ae79f98/62/2x0/20x8/208x3/20832000024/701458226_3/701458226.1080p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/dc50c22ee7affa0d8c652e889434d919/6ae79f98/62/2x0/20x8/208x3/20832000024/701458226_3/701458226.720p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/617ac94d7a22911116ea55ad63a056cc/6ae79f98/62/2x0/20x8/208x3/20832000024/701458226_3/701458226.540p.wz.h264.mp4"
+            }
+          ]
+        },
+        {
+          "number": 25,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/ef0f00a9bc3dc6e479cb1f7564e64bca/6ae79f98/72/2x0/20x8/208x3/20832000024/701458227_3/701458227.1080p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/c0ed192fc1d6d57c246d4fda8fef8e06/6ae79f98/72/2x0/20x8/208x3/20832000024/701458227_3/701458227.720p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/f3fa122ec90a8adb0451c137069a9cae/6ae79f98/72/2x0/20x8/208x3/20832000024/701458227_3/701458227.540p.wz.h264.mp4"
+            }
+          ]
+        },
+        {
+          "number": 26,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/d935ba76d1cd070e14615464ae051e1c/6ae79f98/82/2x0/20x8/208x3/20832000024/701458228_3/701458228.1080p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/65fdbb5cac4f565aa4a8f84f4f621d19/6ae79f98/82/2x0/20x8/208x3/20832000024/701458228_3/701458228.720p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/83f68f22bb388de3b6ffb669d29014cb/6ae79f98/82/2x0/20x8/208x3/20832000024/701458228_3/701458228.540p.wz.h264.mp4"
+            }
+          ]
+        },
+        {
+          "number": 27,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/c26424659079306ba474e16698b71bc8/6ae79f98/92/2x0/20x8/208x3/20832000024/701458229_3/701458229.1080p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/e227f48717795104c350642c0dffd452/6ae79f98/92/2x0/20x8/208x3/20832000024/701458229_3/701458229.720p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/ef3092fa84892339126cc2b97c81080a/6ae79f98/92/2x0/20x8/208x3/20832000024/701458229_3/701458229.540p.wz.h264.mp4"
+            }
+          ]
+        },
+        {
+          "number": 28,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/c934229940107dae9d03b20ee56e8a37/6ae79f98/03/2x0/20x8/208x3/20832000024/701458230_3/701458230.1080p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/e32348514815b9812318e71b72b2aa18/6ae79f98/03/2x0/20x8/208x3/20832000024/701458230_3/701458230.720p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/6c6c95fc82183fda969ec90466e76cc0/6ae79f98/03/2x0/20x8/208x3/20832000024/701458230_3/701458230.540p.wz.h264.mp4"
+            }
+          ]
+        },
+        {
+          "number": 29,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/b0eeacd964113396455506a73007bb69/6ae79f98/13/2x0/20x8/208x3/20832000024/701458231_3/701458231.1080p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/a64af0c8ae8b968f663e2fe7c4e0abb1/6ae79f98/13/2x0/20x8/208x3/20832000024/701458231_3/701458231.720p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/fa2cab8f3286cef58cb41023665a8779/6ae79f98/13/2x0/20x8/208x3/20832000024/701458231_3/701458231.540p.wz.h264.mp4"
+            }
+          ]
+        },
+        {
+          "number": 30,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/3228c8b0e754ac32d56b230c764fef9a/6ae79f98/23/2x0/20x8/208x3/20832000024/701458232_3/701458232.1080p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/e2ab624d5771351eb2cdc9249992148d/6ae79f98/23/2x0/20x8/208x3/20832000024/701458232_3/701458232.720p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/7fd2d4a28e097aefdd4da96157bea7e3/6ae79f98/23/2x0/20x8/208x3/20832000024/701458232_3/701458232.540p.wz.h264.mp4"
+            }
+          ]
+        },
+        {
+          "number": 31,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/5c4e9a9e4c113bbc51354ca9fcba46b2/6ae79f98/33/2x0/20x8/208x3/20832000024/701458233_3/701458233.1080p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/2391ca2692222311b21063d6bb81ea5d/6ae79f98/33/2x0/20x8/208x3/20832000024/701458233_3/701458233.720p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/f86cbb667e6cb3fe41d8095d5d498fd9/6ae79f98/33/2x0/20x8/208x3/20832000024/701458233_3/701458233.540p.wz.h264.mp4"
+            }
+          ]
+        },
+        {
+          "number": 32,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/f2779997e78b1b942fca8931f34a5b1b/6ae79f98/43/2x0/20x8/208x3/20832000024/701458234_3/701458234.1080p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/de544bfbb493d6f646d0a59bad5fb9da/6ae79f98/43/2x0/20x8/208x3/20832000024/701458234_3/701458234.720p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/a0bf4cc248e5d1e15ed168852084cfe3/6ae79f98/43/2x0/20x8/208x3/20832000024/701458234_3/701458234.540p.wz.h264.mp4"
+            }
+          ]
+        },
+        {
+          "number": 33,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/1a48dc458123b9234f8758fd6b4d37c6/6ae79f98/53/2x0/20x8/208x3/20832000024/701458235_3/701458235.1080p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/6059c4cc4552264b0008f47f4329d03c/6ae79f98/53/2x0/20x8/208x3/20832000024/701458235_3/701458235.720p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/3b2c27aa9fa6816210d7a3378c340e99/6ae79f98/53/2x0/20x8/208x3/20832000024/701458235_3/701458235.540p.wz.h264.mp4"
+            }
+          ]
+        },
+        {
+          "number": 34,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/f7d8acff347542ffbcb4fb544c697789/6ae79f98/63/2x0/20x8/208x3/20832000024/701458236_3/701458236.1080p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/8ace7b3846f05047cf33361e775df029/6ae79f98/63/2x0/20x8/208x3/20832000024/701458236_3/701458236.720p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/45c026ba7b59eabe1d4bf77d1e729717/6ae79f98/63/2x0/20x8/208x3/20832000024/701458236_3/701458236.540p.wz.h264.mp4"
+            }
+          ]
+        },
+        {
+          "number": 35,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/41a58b8d3de250d6ea1e7f7be5b670f9/6ae79f98/73/2x0/20x8/208x3/20832000024/701458237_3/701458237.1080p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/b6f6dc2ea121eb606b5491b5a08f11ba/6ae79f98/73/2x0/20x8/208x3/20832000024/701458237_3/701458237.720p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/a9374f1a53b5de10e6e8d32575f68922/6ae79f98/73/2x0/20x8/208x3/20832000024/701458237_3/701458237.540p.wz.h264.mp4"
+            }
+          ]
+        },
+        {
+          "number": 36,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/28af7d56f1a830784338f4fbcea46c2d/6ae79f98/83/2x0/20x8/208x3/20832000024/701458238_3/701458238.1080p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/2994be2eb65f25af28a98a3fa0fa543e/6ae79f98/83/2x0/20x8/208x3/20832000024/701458238_3/701458238.720p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/1f0a09cf5ea8b5978395bf9b58693838/6ae79f98/83/2x0/20x8/208x3/20832000024/701458238_3/701458238.540p.wz.h264.mp4"
+            }
+          ]
+        },
+        {
+          "number": 37,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/c6bf075a366931fea27420e5d0900333/6ae79f98/93/2x0/20x8/208x3/20832000024/701458239_3/701458239.1080p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/8250aa48360c89805ad617bdaf832d7f/6ae79f98/93/2x0/20x8/208x3/20832000024/701458239_3/701458239.720p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/844bb2d6759e541cc2f1f446dd068264/6ae79f98/93/2x0/20x8/208x3/20832000024/701458239_3/701458239.540p.wz.h264.mp4"
+            }
+          ]
+        },
+        {
+          "number": 38,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/1725329a7475ca82b5d2b2a74585b2a3/6ae79f98/04/2x0/20x8/208x3/20832000024/701458240_3/701458240.1080p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/d37e39a108581b92aea22869158cd408/6ae79f98/04/2x0/20x8/208x3/20832000024/701458240_3/701458240.720p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/54b45717bf74227cb80589ab506d100b/6ae79f98/04/2x0/20x8/208x3/20832000024/701458240_3/701458240.540p.wz.h264.mp4"
+            }
+          ]
+        },
+        {
+          "number": 39,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/ddca1a8c85d7f0e0cab3bc01ad618c03/6ae79f98/14/2x0/20x8/208x3/20832000024/701458241_3/701458241.1080p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/10c59c677630cda963c81d0200f54dbe/6ae79f98/14/2x0/20x8/208x3/20832000024/701458241_3/701458241.720p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/1054d6751c3aac6d618d387900aa7222/6ae79f98/14/2x0/20x8/208x3/20832000024/701458241_3/701458241.540p.wz.h264.mp4"
+            }
+          ]
+        },
+        {
+          "number": 40,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/c86d208694f447a780b2f436c3cafab5/6ae79f98/24/2x0/20x8/208x3/20832000024/701458242_3/701458242.1080p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/9d609ddd549d682e26c334989bc057ca/6ae79f98/24/2x0/20x8/208x3/20832000024/701458242_3/701458242.720p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/fa6bc5951d0eaffb53bd523852f911c6/6ae79f98/24/2x0/20x8/208x3/20832000024/701458242_3/701458242.540p.wz.h264.mp4"
+            }
+          ]
+        },
+        {
+          "number": 41,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/75fcce613dc0891423fc377408a88542/6ae79f98/34/2x0/20x8/208x3/20832000024/701458243_3/701458243.1080p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/2acf41029b70e7a5722d65a9f79617d8/6ae79f98/34/2x0/20x8/208x3/20832000024/701458243_3/701458243.720p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/ea286dc4624cb73268d444ffe6a15f93/6ae79f98/34/2x0/20x8/208x3/20832000024/701458243_3/701458243.540p.wz.h264.mp4"
+            }
+          ]
+        },
+        {
+          "number": 42,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/e946342b905c88fafb43e86e17d0ff68/6ae79f98/44/2x0/20x8/208x3/20832000024/701458244_3/701458244.1080p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/1fcdb6620932e6592706ff495f644019/6ae79f98/44/2x0/20x8/208x3/20832000024/701458244_3/701458244.720p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/ce0bc1aea3ed40e69122c196ffcac1ca/6ae79f98/44/2x0/20x8/208x3/20832000024/701458244_3/701458244.540p.wz.h264.mp4"
+            }
+          ]
+        },
+        {
+          "number": 43,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/dcad4fdff3aed06eadf76c88fb275c56/6ae79f98/54/2x0/20x8/208x3/20832000024/701458245_3/701458245.1080p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/8da6b348ed262a780f7e5e0ebf68bdfa/6ae79f98/54/2x0/20x8/208x3/20832000024/701458245_3/701458245.720p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/04d780ef5528b8d9673a1852fe6dc94c/6ae79f98/54/2x0/20x8/208x3/20832000024/701458245_3/701458245.540p.wz.h264.mp4"
+            }
+          ]
+        },
+        {
+          "number": 44,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/c15832775887f62843306e162c31ad67/6ae79f98/64/2x0/20x8/208x3/20832000024/701458246_3/701458246.1080p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/131a2eaad1817af9a6ad42e136c9765e/6ae79f98/64/2x0/20x8/208x3/20832000024/701458246_3/701458246.720p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/6475055b3d9e10b7d9217aa18a2048fb/6ae79f98/64/2x0/20x8/208x3/20832000024/701458246_3/701458246.540p.wz.h264.mp4"
+            }
+          ]
+        },
+        {
+          "number": 45,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/dac0d380c8aae8f2c2d4078464936cfa/6ae79f98/74/2x0/20x8/208x3/20832000024/701458247_3/701458247.1080p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/633e5058d4424fcc6d04f92b2813879e/6ae79f98/74/2x0/20x8/208x3/20832000024/701458247_3/701458247.720p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/2b1e9f671df2a97bbb534346d904d64e/6ae79f98/74/2x0/20x8/208x3/20832000024/701458247_3/701458247.540p.wz.h264.mp4"
+            }
+          ]
+        },
+        {
+          "number": 46,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/12148681659c700c9a07ddfeb0ee18c6/6ae79f98/84/2x0/20x8/208x3/20832000024/701458248_3/701458248.1080p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/062f5a77bcca84a0c3b166bb7399ce6c/6ae79f98/84/2x0/20x8/208x3/20832000024/701458248_3/701458248.720p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/705bdfdfec4236a6939137ddcae045ea/6ae79f98/84/2x0/20x8/208x3/20832000024/701458248_3/701458248.540p.wz.h264.mp4"
+            }
+          ]
+        },
+        {
+          "number": 47,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/cc7f1e573ff3a585f75d6423981de187/6ae79f98/94/2x0/20x8/208x3/20832000024/701458249_3/701458249.1080p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/a6d9b5b1aa1b9709e758e68e69ef4f5e/6ae79f98/94/2x0/20x8/208x3/20832000024/701458249_3/701458249.720p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/5a4f585d4191d7f71e35f7ca79fe84fc/6ae79f98/94/2x0/20x8/208x3/20832000024/701458249_3/701458249.540p.wz.h264.mp4"
+            }
+          ]
+        },
+        {
+          "number": 48,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/f6ccf2ae96ece882c3c86433feccdc1d/6ae79f98/05/2x0/20x8/208x3/20832000024/701458250_3/701458250.1080p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/83e0f7591cafdda2b44c514eaa813662/6ae79f98/05/2x0/20x8/208x3/20832000024/701458250_3/701458250.720p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/27ece8474b40b13a3e1ce724532d1a65/6ae79f98/05/2x0/20x8/208x3/20832000024/701458250_3/701458250.540p.wz.h264.mp4"
+            }
+          ]
+        },
+        {
+          "number": 49,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/e369848a33e968d87135a1c00350945a/6ae79f98/15/2x0/20x8/208x3/20832000024/701458251_3/701458251.1080p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/89ab5789225683a78c37487a48f86e22/6ae79f98/15/2x0/20x8/208x3/20832000024/701458251_3/701458251.720p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/a9362b6b8d280e85ef3d942390b275b7/6ae79f98/15/2x0/20x8/208x3/20832000024/701458251_3/701458251.540p.wz.h264.mp4"
+            }
+          ]
+        },
+        {
+          "number": 50,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/8d54f0b6ace6970fd362101c3de7419e/6ae79f98/25/2x0/20x8/208x3/20832000024/701458252_3/701458252.1080p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/8886c26aac18650a405093db54cbdfbd/6ae79f98/25/2x0/20x8/208x3/20832000024/701458252_3/701458252.720p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/d3dc9d64994a03f7c26bd3428f567edc/6ae79f98/25/2x0/20x8/208x3/20832000024/701458252_3/701458252.540p.wz.h264.mp4"
+            }
+          ]
+        },
+        {
+          "number": 51,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/b669a3bd076123f573c8b70e7eb81f97/6ae79f98/35/2x0/20x8/208x3/20832000024/701458253_3/701458253.1080p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/f8ee51b7813d88cc6c4e2ffb7756477e/6ae79f98/35/2x0/20x8/208x3/20832000024/701458253_3/701458253.720p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/15474fcb255a20459a94192faf9b6df4/6ae79f98/35/2x0/20x8/208x3/20832000024/701458253_3/701458253.540p.wz.h264.mp4"
+            }
+          ]
+        },
+        {
+          "number": 52,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/40a2141b2d6706e98a07900b83f03a12/6ae79f98/45/2x0/20x8/208x3/20832000024/701458254_3/701458254.1080p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/bde0595b7317f32d98870ba726d35a32/6ae79f98/45/2x0/20x8/208x3/20832000024/701458254_3/701458254.720p.wz.h264.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/d0c118f5062f2d8326a0eef67298efc6/6ae79f98/45/2x0/20x8/208x3/20832000024/701458254_3/701458254.540p.wz.h264.mp4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dramabox-42000021382",
+      "title": "Deny Me, Dragon King",
+      "description": "Human Lyra stumbles on Dragon King Kael and shares a passionate night. Tricked by a fake prophecy, he casts her out—only for Lyra to bear his half-dragon daughter Amber. Years later, she returns seeking a healer to save her sick child. Old sparks reignite, jealous rivals plot, and hidden blood ties surface as they fight for their family and broken love.",
+      "poster": "https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000021382/42000021382.jpg?t=1784518309235",
+      "genres": [
+        "Secret Baby",
+        "Dragon",
+        "Winning Her Back",
+        "Single Mom"
+      ],
+      "featured": false,
+      "license": "Provider Stream via APIShort",
+      "attribution": "DramaBox",
+      "sourcePage": "https://www.dramaboxdb.com",
+      "episodes": [
+        {
+          "number": 1,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/ecb2b081f70e1e86087d48276b1a1f94/6ae79f98/23/2x8/28x3/283x1/28312000024/701326432_1/701326432.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/2fa713f2eac69699bf8da2178cd196b5/6ae79f98/23/2x8/28x3/283x1/28312000024/701326432_1/701326432.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/a6a3fe0b900dcbd950d4edfc9576f630/6ae79f98/23/2x8/28x3/283x1/28312000024/701326432_1/701326432.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/2a5fde383d138b88ef06e63e1e7dac36/6ae79f98/33/2x8/28x3/283x1/28312000024/701326433_1/701326433.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/dfd10a3aa82deeb2eda181c4e5651a8d/6ae79f98/33/2x8/28x3/283x1/28312000024/701326433_1/701326433.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/081546ea50001d5adcf4184bebbb82ae/6ae79f98/33/2x8/28x3/283x1/28312000024/701326433_1/701326433.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/8726df79b410b430c665373a84891387/6ae79f98/43/2x8/28x3/283x1/28312000024/701326434_1/701326434.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/716f5c126f51d357ed376026f51cfd49/6ae79f98/43/2x8/28x3/283x1/28312000024/701326434_1/701326434.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/c9804fd729f9c70d25ca6fe78dddfcbf/6ae79f98/43/2x8/28x3/283x1/28312000024/701326434_1/701326434.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/12b2a6b0c0ddfb36cfdc26d1fcf70e24/6ae79f98/53/2x8/28x3/283x1/28312000024/701326435_1/701326435.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/c11f3792b68b4c2cd01a7395ac194f2e/6ae79f98/53/2x8/28x3/283x1/28312000024/701326435_1/701326435.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/0a8f23a7ff6bd7492ce28b934d2bb74d/6ae79f98/53/2x8/28x3/283x1/28312000024/701326435_1/701326435.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/68b54336cd01191ec34e573f07ecd45e/6ae79f98/63/2x8/28x3/283x1/28312000024/701326436_1/701326436.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/9d58ac0f4ba0354b9fcc6d3e2b266676/6ae79f98/63/2x8/28x3/283x1/28312000024/701326436_1/701326436.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/55cec1dd9d6e7234530c363ed707863e/6ae79f98/63/2x8/28x3/283x1/28312000024/701326436_1/701326436.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 6,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/6e7c346560dfe2567e5cc196a36539d0/6ae79f98/73/2x8/28x3/283x1/28312000024/701326437_1/701326437.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/3e08cba18a2db4fcc7893dbf7b6f2257/6ae79f98/73/2x8/28x3/283x1/28312000024/701326437_1/701326437.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/512e59b0f3779085052b9aae8d311049/6ae79f98/73/2x8/28x3/283x1/28312000024/701326437_1/701326437.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 7,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/652eb362f8ce83fbe46da1923e4a4ea8/6ae79f98/83/2x8/28x3/283x1/28312000024/701326438_1/701326438.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/f845946efe61f1d99a6e35f0810e34bc/6ae79f98/83/2x8/28x3/283x1/28312000024/701326438_1/701326438.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/996a287f142af80852008b8fdb1bb0a9/6ae79f98/83/2x8/28x3/283x1/28312000024/701326438_1/701326438.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 8,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/37a4d37b765ac89a9eed1b7d2e95b53a/6ae79f98/93/2x8/28x3/283x1/28312000024/701326439_1/701326439.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/7c34089e62f89e18066a4b639bb6e324/6ae79f98/93/2x8/28x3/283x1/28312000024/701326439_1/701326439.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/a937ed6e0537b405265a001544b6714b/6ae79f98/93/2x8/28x3/283x1/28312000024/701326439_1/701326439.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 9,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/ea61382e7d588bc631511664d6923613/6ae79f98/04/2x8/28x3/283x1/28312000024/701326440_1/701326440.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/746dd1b2582d2c700f8a6ae9217c7d30/6ae79f98/04/2x8/28x3/283x1/28312000024/701326440_1/701326440.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/da43275dceecd56e7ed690b261238aab/6ae79f98/04/2x8/28x3/283x1/28312000024/701326440_1/701326440.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 10,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/07a3392cd2f1231ca721f4b8e7f21be0/6ae79f98/14/2x8/28x3/283x1/28312000024/701326441_1/701326441.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/7a7400a97bb253e29e2f4d78ef3d4aae/6ae79f98/14/2x8/28x3/283x1/28312000024/701326441_1/701326441.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/075c7d55c3c386ec99400522af81ba36/6ae79f98/14/2x8/28x3/283x1/28312000024/701326441_1/701326441.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 11,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/611820b8f02b9d6ac81c656a16c80e8b/6ae79f98/24/2x8/28x3/283x1/28312000024/701326442_1/701326442.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/82e4f4b24faa18f036362cf135658132/6ae79f98/24/2x8/28x3/283x1/28312000024/701326442_1/701326442.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/974ce776f6152de60278908138a87b3a/6ae79f98/24/2x8/28x3/283x1/28312000024/701326442_1/701326442.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 12,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/c88c6ebd462f7bb269f6305655d63ac3/6ae79f98/34/2x8/28x3/283x1/28312000024/701326443_1/701326443.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/5d360a9bc5b6e859a527e6d0ace73646/6ae79f98/34/2x8/28x3/283x1/28312000024/701326443_1/701326443.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/6543f9330856729a2aab5dd01efba8a4/6ae79f98/34/2x8/28x3/283x1/28312000024/701326443_1/701326443.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 13,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/55c91e36b757ea5f962f4ba38f13a482/6ae79f98/44/2x8/28x3/283x1/28312000024/701326444_1/701326444.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/d520d40b73479842e2b5267ba360798f/6ae79f98/44/2x8/28x3/283x1/28312000024/701326444_1/701326444.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/467ba6678869464db994635271a602c4/6ae79f98/44/2x8/28x3/283x1/28312000024/701326444_1/701326444.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 14,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/1ba6c3f47f47ce6d2ae4885e3ff49df4/6ae79f98/54/2x8/28x3/283x1/28312000024/701326445_1/701326445.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/87695ce8d41b93f3ea781b2cd0e12944/6ae79f98/54/2x8/28x3/283x1/28312000024/701326445_1/701326445.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/a8d5c52351cf882604666348f9942591/6ae79f98/54/2x8/28x3/283x1/28312000024/701326445_1/701326445.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 15,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/014178b50a79606f7a8a09b1139044f2/6ae79f98/64/2x8/28x3/283x1/28312000024/701326446_1/701326446.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/4fe8add65b6d9a4ae14c61c9d589a8b1/6ae79f98/64/2x8/28x3/283x1/28312000024/701326446_1/701326446.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/5bad929fd3f4d1ee2ae01680dae2c31c/6ae79f98/64/2x8/28x3/283x1/28312000024/701326446_1/701326446.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 16,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/500fab8ace12c7ed6c12b1304cc8dc5b/6ae79f98/74/2x8/28x3/283x1/28312000024/701326447_1/701326447.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/982e80216ed2dc7a3262a9705227cebd/6ae79f98/74/2x8/28x3/283x1/28312000024/701326447_1/701326447.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/3cfdc9a95db3366761c58ebb0f6f697c/6ae79f98/74/2x8/28x3/283x1/28312000024/701326447_1/701326447.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 17,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/27f21b397f7388552a487541abe1f890/6ae79f98/84/2x8/28x3/283x1/28312000024/701326448_1/701326448.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/c40f31abf5277254ab7de45f931c3849/6ae79f98/84/2x8/28x3/283x1/28312000024/701326448_1/701326448.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/f6cae8262a51943fec93af7d73629d5b/6ae79f98/84/2x8/28x3/283x1/28312000024/701326448_1/701326448.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 18,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/cc2ad04fd598c496a17ffa4fd535b2b2/6ae79f98/94/2x8/28x3/283x1/28312000024/701326449_1/701326449.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/cadc1a1ed9646e06498ca1095d3b5bd2/6ae79f98/94/2x8/28x3/283x1/28312000024/701326449_1/701326449.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/8777764fb731ea9e25728ef9da26d30f/6ae79f98/94/2x8/28x3/283x1/28312000024/701326449_1/701326449.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 19,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/6d655fd97f1f609d91dd680258429e9c/6ae79f98/05/2x8/28x3/283x1/28312000024/701326450_1/701326450.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/8754eb2b355180a1dd1c5410c831a25f/6ae79f98/05/2x8/28x3/283x1/28312000024/701326450_1/701326450.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/a2d7af9c42952aee9a220dd608310e17/6ae79f98/05/2x8/28x3/283x1/28312000024/701326450_1/701326450.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 20,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/e948571b53e6c2ffb090afe0dde235a1/6ae79f98/15/2x8/28x3/283x1/28312000024/701326451_1/701326451.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/d4481513c8ea3fdccae7cd48c3ec2fd2/6ae79f98/15/2x8/28x3/283x1/28312000024/701326451_1/701326451.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/0a052a82fb386dcc4d9bf02f6afbf742/6ae79f98/15/2x8/28x3/283x1/28312000024/701326451_1/701326451.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 21,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/00e9a18862de16d5f98f36beb3c2b418/6ae79f98/25/2x8/28x3/283x1/28312000024/701326452_1/701326452.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/8954b602a2fdcdb13ee7b2478540da0b/6ae79f98/25/2x8/28x3/283x1/28312000024/701326452_1/701326452.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/fa5c8f98df7f2d98063147d04ad33c26/6ae79f98/25/2x8/28x3/283x1/28312000024/701326452_1/701326452.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 22,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/0824b4d50206784ad02c718d8c4988a1/6ae79f98/35/2x8/28x3/283x1/28312000024/701326453_1/701326453.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/8f682ac876582c33a1371d89998cf194/6ae79f98/35/2x8/28x3/283x1/28312000024/701326453_1/701326453.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/08aadf10068296e9d5a3c3b7c6d7c138/6ae79f98/35/2x8/28x3/283x1/28312000024/701326453_1/701326453.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 23,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/b9d30d55d4aa0f609437b1b85cdb629e/6ae79f98/45/2x8/28x3/283x1/28312000024/701326454_1/701326454.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/7fee94df7c6d33171f359ebbba3f3f29/6ae79f98/45/2x8/28x3/283x1/28312000024/701326454_1/701326454.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/a1681ab3e4fe77c760a1127403cc165a/6ae79f98/45/2x8/28x3/283x1/28312000024/701326454_1/701326454.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 24,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/01e498e371ad4d77361dae70747e4f6c/6ae79f98/55/2x8/28x3/283x1/28312000024/701326455_1/701326455.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/d818299e67fa5773b5779c64a88a6eb4/6ae79f98/55/2x8/28x3/283x1/28312000024/701326455_1/701326455.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/c2e097ea4ace8a328d011267fd07f468/6ae79f98/55/2x8/28x3/283x1/28312000024/701326455_1/701326455.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 25,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/84d25fa90cb47f07ef19d07cc857eacd/6ae79f98/65/2x8/28x3/283x1/28312000024/701326456_1/701326456.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/868e79b7374b86893ca9a4229860772d/6ae79f98/65/2x8/28x3/283x1/28312000024/701326456_1/701326456.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/aa6419b76667b54a81a4f6102a2a8424/6ae79f98/65/2x8/28x3/283x1/28312000024/701326456_1/701326456.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 26,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/9f1d89af6a70a2656fca55887596fe4a/6ae79f98/75/2x8/28x3/283x1/28312000024/701326457_1/701326457.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/d33a0dac091112abda45b18ec4530746/6ae79f98/75/2x8/28x3/283x1/28312000024/701326457_1/701326457.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/0b28cecacabc1c2a549e83c37a331d64/6ae79f98/75/2x8/28x3/283x1/28312000024/701326457_1/701326457.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 27,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/9ee4b47ddf4e2430d9de4dffc1688d75/6ae79f98/85/2x8/28x3/283x1/28312000024/701326458_1/701326458.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/743d787d014b5c22f850201f5a634e8b/6ae79f98/85/2x8/28x3/283x1/28312000024/701326458_1/701326458.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/b864e9093e6c77c10caa2a9dc6fc5d9d/6ae79f98/85/2x8/28x3/283x1/28312000024/701326458_1/701326458.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 28,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/52535c60624f859c577d09f47749a711/6ae79f98/95/2x8/28x3/283x1/28312000024/701326459_1/701326459.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/95dc8334ea7f1f21f0c3465b710e7638/6ae79f98/95/2x8/28x3/283x1/28312000024/701326459_1/701326459.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/000cbb90a034c699f1d00bd16d06fb93/6ae79f98/95/2x8/28x3/283x1/28312000024/701326459_1/701326459.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 29,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/d0530f90775a31733bc15fac79647518/6ae79f98/06/2x8/28x3/283x1/28312000024/701326460_1/701326460.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/1131bb71411383b26bc4c63a6e731546/6ae79f98/06/2x8/28x3/283x1/28312000024/701326460_1/701326460.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/45370d27dc327df0e34fdf4da64116bb/6ae79f98/06/2x8/28x3/283x1/28312000024/701326460_1/701326460.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 30,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/4ec74d26909e85a5ef3732f67332af25/6ae79f98/16/2x8/28x3/283x1/28312000024/701326461_1/701326461.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/6faad461bf5df8ab49de1e342717d246/6ae79f98/16/2x8/28x3/283x1/28312000024/701326461_1/701326461.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/36c5e4ee3e1c9c02ecfa697b8d5a82d6/6ae79f98/16/2x8/28x3/283x1/28312000024/701326461_1/701326461.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 31,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/2988f8852a3308cd293b03ab3fc986f7/6ae79f98/26/2x8/28x3/283x1/28312000024/701326462_1/701326462.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/83980250523321e1dcca8a7fb38e3bb6/6ae79f98/26/2x8/28x3/283x1/28312000024/701326462_1/701326462.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/fd33d945f6144acf58bf32ad9ba3e7d5/6ae79f98/26/2x8/28x3/283x1/28312000024/701326462_1/701326462.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 32,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/a5cf76eec52cfda015d2a2328bbd1536/6ae79f98/36/2x8/28x3/283x1/28312000024/701326463_1/701326463.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/6b5b07564758a9aa703f930c7ff419da/6ae79f98/36/2x8/28x3/283x1/28312000024/701326463_1/701326463.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/a144471b405a37e14f26280d6bb29dbd/6ae79f98/36/2x8/28x3/283x1/28312000024/701326463_1/701326463.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 33,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/9be2e0cd384cd149177849b538ff50c0/6ae79f98/46/2x8/28x3/283x1/28312000024/701326464_1/701326464.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/2f59398c6d1a18e041ae1bec29669f67/6ae79f98/46/2x8/28x3/283x1/28312000024/701326464_1/701326464.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/e8f81f6d46c9747b9a16a019fa09a222/6ae79f98/46/2x8/28x3/283x1/28312000024/701326464_1/701326464.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 34,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/587a3deea513cd5b82e61276de79c601/6ae79f98/56/2x8/28x3/283x1/28312000024/701326465_1/701326465.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/ae640de5d28043d7f6438273aaa866eb/6ae79f98/56/2x8/28x3/283x1/28312000024/701326465_1/701326465.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/21ed55782e3dda11474131c39a37a2ba/6ae79f98/56/2x8/28x3/283x1/28312000024/701326465_1/701326465.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 35,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/772dbd51e3c9b0f237430f0242dda126/6ae79f98/66/2x8/28x3/283x1/28312000024/701326466_1/701326466.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/8e8d18579f521e040cc54ed6bbd9beea/6ae79f98/66/2x8/28x3/283x1/28312000024/701326466_1/701326466.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/bed28b21738d07055e421cdd4bb47607/6ae79f98/66/2x8/28x3/283x1/28312000024/701326466_1/701326466.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 36,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/9ca19a42597379d0d4436a6268cbf96e/6ae79f98/76/2x8/28x3/283x1/28312000024/701326467_1/701326467.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/ba7c9e497e3bf7d1c422f2820db21ff4/6ae79f98/76/2x8/28x3/283x1/28312000024/701326467_1/701326467.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/bcd33f38884bcc144179ef77ebc1bd10/6ae79f98/76/2x8/28x3/283x1/28312000024/701326467_1/701326467.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 37,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/d6275651f4e0551bfe13a64873bc7722/6ae79f98/86/2x8/28x3/283x1/28312000024/701326468_1/701326468.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/dc991b936ae934fac90411ede2f7fd5c/6ae79f98/86/2x8/28x3/283x1/28312000024/701326468_1/701326468.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/695dd20cb201f47747541189a86e2bcd/6ae79f98/86/2x8/28x3/283x1/28312000024/701326468_1/701326468.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 38,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/c260d4269add277e20ec6e4429ae37d4/6ae79f98/96/2x8/28x3/283x1/28312000024/701326469_1/701326469.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/0fdc8e29c63123f58406498622a74605/6ae79f98/96/2x8/28x3/283x1/28312000024/701326469_1/701326469.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/9e23c87b318e35dd4797e892d28ae279/6ae79f98/96/2x8/28x3/283x1/28312000024/701326469_1/701326469.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 39,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/0f8fadba04f7fe2963d049888bd81785/6ae79f98/07/2x8/28x3/283x1/28312000024/701326470_1/701326470.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/988a45cb5a74d6866f69a7c4abed68c6/6ae79f98/07/2x8/28x3/283x1/28312000024/701326470_1/701326470.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/5a64e6777eca6828e49832906e071804/6ae79f98/07/2x8/28x3/283x1/28312000024/701326470_1/701326470.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 40,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/eab930e4dc4abdb260f68e49f3353333/6ae79f98/17/2x8/28x3/283x1/28312000024/701326471_1/701326471.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/58db19ee0d385ad9857a8efc277457d9/6ae79f98/17/2x8/28x3/283x1/28312000024/701326471_1/701326471.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/d678c123216a3982e6fdb88b759f5d6b/6ae79f98/17/2x8/28x3/283x1/28312000024/701326471_1/701326471.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 41,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/b491cb89a18d9a0062d6cdbd65f4a7a9/6ae79f98/27/2x8/28x3/283x1/28312000024/701326472_1/701326472.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/bf3a18b63294ebc2a20e4ec66342da54/6ae79f98/27/2x8/28x3/283x1/28312000024/701326472_1/701326472.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/9885eaee0dc6328327da2a6efe3c7998/6ae79f98/27/2x8/28x3/283x1/28312000024/701326472_1/701326472.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 42,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/023ebf4853af2717c87e02b5c4369aaa/6ae79f98/37/2x8/28x3/283x1/28312000024/701326473_1/701326473.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/1133e5264dcd28bfc8752a80adbc9831/6ae79f98/37/2x8/28x3/283x1/28312000024/701326473_1/701326473.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/ea0bca106bd4361d73ad5a84ec137a23/6ae79f98/37/2x8/28x3/283x1/28312000024/701326473_1/701326473.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 43,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/eb8c51dcb4a0726b67ad4866c59c3a65/6ae79f98/47/2x8/28x3/283x1/28312000024/701326474_1/701326474.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/fd124c11f95efa200cbbccf6f5715797/6ae79f98/47/2x8/28x3/283x1/28312000024/701326474_1/701326474.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/16f2f8353b4dc9d1b45ddfdfd896aaf9/6ae79f98/47/2x8/28x3/283x1/28312000024/701326474_1/701326474.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 44,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/9b54a1c7e259f104bc82d7f3fa12d977/6ae79f98/57/2x8/28x3/283x1/28312000024/701326475_1/701326475.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/1f456841697bc36b2c328f1800632154/6ae79f98/57/2x8/28x3/283x1/28312000024/701326475_1/701326475.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/b1b980fbcd5cda97b711cbb733c9e575/6ae79f98/57/2x8/28x3/283x1/28312000024/701326475_1/701326475.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 45,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/8b374d4898904804365de82257884c99/6ae79f98/67/2x8/28x3/283x1/28312000024/701326476_1/701326476.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/fd11f88b8e8957616a0e6641646e9a69/6ae79f98/67/2x8/28x3/283x1/28312000024/701326476_1/701326476.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/93098a4b93abb7f11eba15c4d0abda6d/6ae79f98/67/2x8/28x3/283x1/28312000024/701326476_1/701326476.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 46,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/00b8274f059bd173af2a548eada7d1bd/6ae79f98/77/2x8/28x3/283x1/28312000024/701326477_1/701326477.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/31973c09fd3cc481a2752dcaa7c4c858/6ae79f98/77/2x8/28x3/283x1/28312000024/701326477_1/701326477.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/63e9e284c539aa663ef3646fd66d7ad6/6ae79f98/77/2x8/28x3/283x1/28312000024/701326477_1/701326477.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 47,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/b6bd48522708d517bf7dad1fe9bf38bf/6ae79f98/87/2x8/28x3/283x1/28312000024/701326478_1/701326478.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/89c687e3f58f14f20ac4c7135e395276/6ae79f98/87/2x8/28x3/283x1/28312000024/701326478_1/701326478.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/dec34e6f48e6ae2170e0a5a194948d5a/6ae79f98/87/2x8/28x3/283x1/28312000024/701326478_1/701326478.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 48,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/e6798427e1ebbeb474bcda2d73f68996/6ae79f98/97/2x8/28x3/283x1/28312000024/701326479_1/701326479.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/3b1b6989ea06ebb5dc03bf7ab36e384b/6ae79f98/97/2x8/28x3/283x1/28312000024/701326479_1/701326479.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/c54098a322108679ca1d7dfcfac3c45a/6ae79f98/97/2x8/28x3/283x1/28312000024/701326479_1/701326479.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 49,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/913e33f23874030f43d69fdf91fca9ac/6ae79f98/08/2x8/28x3/283x1/28312000024/701326480_1/701326480.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/1510dd4dac4bf9ac1073ad924f4296a8/6ae79f98/08/2x8/28x3/283x1/28312000024/701326480_1/701326480.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/d04f6150a3ac63b08a375076c84fa54b/6ae79f98/08/2x8/28x3/283x1/28312000024/701326480_1/701326480.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 50,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/f4883fc0f77ce260fa2d866946df9536/6ae79f98/18/2x8/28x3/283x1/28312000024/701326481_1/701326481.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/3a44c3dd2ea4960b95dfb3ec227fbd83/6ae79f98/18/2x8/28x3/283x1/28312000024/701326481_1/701326481.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/3901024a559a260d6929ef4b74cc9676/6ae79f98/18/2x8/28x3/283x1/28312000024/701326481_1/701326481.540p.narrowv2.mp4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dramabox-42000021919",
+      "title": "Shifter Academy: Taming Three Wild Mates ",
+      "description": "What could possibly go wrong when a human girl spends mating season at a school full of apex predators? Everything.\r\nIvy only wanted to finish her education. Rather, her scholarship to Shifter Academy comes with a catch: she's the fated mate of not one, not two, but three of the strongest shifters on campus: Ronan, Leon and Talon.\r\nThree alphas. One impossible choice. Her heart has chosen. It's love at first slap.",
+      "poster": "https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000021919/42000021919.jpg?t=1784714828094",
+      "genres": [
+        "Supernatural",
+        "Young Adult",
+        "Romance",
+        "Destined Love"
+      ],
+      "featured": false,
+      "license": "Provider Stream via APIShort",
+      "attribution": "DramaBox",
+      "sourcePage": "https://www.dramaboxdb.com",
+      "episodes": [
+        {
+          "number": 1,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/a13ee3f3215271aa553b69adcc670356/6ae79f98/05/9x1/91x9/919x1/91912000024/701347450_2/701347450.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/61834285ad56ba14159bb08b262c5bd0/6ae79f98/05/9x1/91x9/919x1/91912000024/701347450_2/701347450.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/0eb99a79af119fc8902a8a0d3d1c09bf/6ae79f98/05/9x1/91x9/919x1/91912000024/701347450_2/701347450.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/b3c3bbcd5cc19e764b783bed1cee72f8/6ae79f98/15/9x1/91x9/919x1/91912000024/701347451_2/701347451.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/bd0b11c809e4840de9a1ebf6c7c0d4d0/6ae79f98/15/9x1/91x9/919x1/91912000024/701347451_2/701347451.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/5cdfcfeb82c268a27910b15a9909b9e2/6ae79f98/15/9x1/91x9/919x1/91912000024/701347451_2/701347451.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/89f1e1254f76d313fa1698029df3b93b/6ae79f98/25/9x1/91x9/919x1/91912000024/701347452_2/701347452.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/6900436a5920b96d93a3393a7e18b7b0/6ae79f98/25/9x1/91x9/919x1/91912000024/701347452_2/701347452.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/fe1a9825676b2a5903b31be574b5aff6/6ae79f98/25/9x1/91x9/919x1/91912000024/701347452_2/701347452.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/32e0f2d9434d4bd62f9f068df2f2f1a7/6ae79f98/35/9x1/91x9/919x1/91912000024/701347453_2/701347453.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/e0477f0d1abd296d2cfc5a71a8df3c55/6ae79f98/35/9x1/91x9/919x1/91912000024/701347453_2/701347453.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/573f5e26378e6d67ef3234b78aa144a4/6ae79f98/35/9x1/91x9/919x1/91912000024/701347453_2/701347453.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/91e571f0de529ce0d1199ee42a7d4475/6ae79f98/45/9x1/91x9/919x1/91912000024/701347454_2/701347454.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/77477fd165c7584a358f724526f6b971/6ae79f98/45/9x1/91x9/919x1/91912000024/701347454_2/701347454.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/707f534347fca09c9e84cb2c5b95aba4/6ae79f98/45/9x1/91x9/919x1/91912000024/701347454_2/701347454.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 6,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/03b0c93da408d6f2866f19bc6303b6f2/6ae79f98/55/9x1/91x9/919x1/91912000024/701347455_2/701347455.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/fd36e3d85005c73513221794703a0abb/6ae79f98/55/9x1/91x9/919x1/91912000024/701347455_2/701347455.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/73e7ae2b77b711ac98bdfa5b7409be56/6ae79f98/55/9x1/91x9/919x1/91912000024/701347455_2/701347455.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 7,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/4351f798801e795ac39b67efbcecd54f/6ae79f98/65/9x1/91x9/919x1/91912000024/701347456_2/701347456.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/95fc6419c0c2fbda899f2c5de70b30ea/6ae79f98/65/9x1/91x9/919x1/91912000024/701347456_2/701347456.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/aa653d943181ab5ed111eac693fe88b6/6ae79f98/65/9x1/91x9/919x1/91912000024/701347456_2/701347456.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 8,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/cbba0cffd16f12ccb2548380ebe71522/6ae79f98/75/9x1/91x9/919x1/91912000024/701347457_2/701347457.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/14770e230e2429d10b1114105f490056/6ae79f98/75/9x1/91x9/919x1/91912000024/701347457_2/701347457.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/81ed45248679d71ba34ddcbc14d9197a/6ae79f98/75/9x1/91x9/919x1/91912000024/701347457_2/701347457.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 9,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/19a1ea1665f23acca72b7dd961160ebc/6ae79f98/85/9x1/91x9/919x1/91912000024/701347458_2/701347458.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/d96281c5da8ba7ca74deba7e2b03eb3c/6ae79f98/85/9x1/91x9/919x1/91912000024/701347458_2/701347458.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/db82759f66e66eee3c8f33b766c85f99/6ae79f98/85/9x1/91x9/919x1/91912000024/701347458_2/701347458.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 10,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/9c7f6e617fdfa41f8d12ebe46b1a2464/6ae79f98/95/9x1/91x9/919x1/91912000024/701347459_2/701347459.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/498b6b77f1ed2d35ce99f17e0ce041a7/6ae79f98/95/9x1/91x9/919x1/91912000024/701347459_2/701347459.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/589bd11cee4e68e8fbcdc0d85a2a9f71/6ae79f98/95/9x1/91x9/919x1/91912000024/701347459_2/701347459.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 11,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/9462089ead4fb95f6c64a33f6bf20ed7/6ae79f98/06/9x1/91x9/919x1/91912000024/701347460_2/701347460.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/8e0e4e70459d64de2341267b928d701b/6ae79f98/06/9x1/91x9/919x1/91912000024/701347460_2/701347460.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/eb138ff78a2b7f128d3c0fc3b1d54a8d/6ae79f98/06/9x1/91x9/919x1/91912000024/701347460_2/701347460.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 12,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/41c810be47447ba939fdec4ac228f818/6ae79f98/16/9x1/91x9/919x1/91912000024/701347461_2/701347461.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/2815b9f16a7475bf50c478047ee01086/6ae79f98/16/9x1/91x9/919x1/91912000024/701347461_2/701347461.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/62ff8a486d38515bbb533ad28dbea200/6ae79f98/16/9x1/91x9/919x1/91912000024/701347461_2/701347461.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 13,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/aaa2b3ca36ba266babc84c7e3df325b6/6ae79f98/26/9x1/91x9/919x1/91912000024/701347462_2/701347462.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/f7950c9fc916c388396b660ad6f05af0/6ae79f98/26/9x1/91x9/919x1/91912000024/701347462_2/701347462.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/eb529e8b657582e1070665da3be1f6e4/6ae79f98/26/9x1/91x9/919x1/91912000024/701347462_2/701347462.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 14,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/6ea201164034242408ff4d3569798582/6ae79f98/36/9x1/91x9/919x1/91912000024/701347463_2/701347463.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/ad16b00c794c8fced0c80f8540ef864d/6ae79f98/36/9x1/91x9/919x1/91912000024/701347463_2/701347463.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/d34adbb0c8dad47491dc0d4a5cfd3619/6ae79f98/36/9x1/91x9/919x1/91912000024/701347463_2/701347463.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 15,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/143008ee76a9638aab10b644aaf8c2ba/6ae79f98/46/9x1/91x9/919x1/91912000024/701347464_2/701347464.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/10f45d9d0519abe527ed14f4f7ef641d/6ae79f98/46/9x1/91x9/919x1/91912000024/701347464_2/701347464.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/6289e2af73d3150fddf686225e98f933/6ae79f98/46/9x1/91x9/919x1/91912000024/701347464_2/701347464.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 16,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/ca9ef49070ae93294e32beed28d4a901/6ae79f98/56/9x1/91x9/919x1/91912000024/701347465_2/701347465.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/02aadc56ae43e8cfd31e7e56b35c6c2a/6ae79f98/56/9x1/91x9/919x1/91912000024/701347465_2/701347465.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/01befa53743f2964e2a0fca74a84d85d/6ae79f98/56/9x1/91x9/919x1/91912000024/701347465_2/701347465.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 17,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/dcc399be139b0685420399df7230c90a/6ae79f98/66/9x1/91x9/919x1/91912000024/701347466_2/701347466.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/37b6ce8570504f94a362223590827dd7/6ae79f98/66/9x1/91x9/919x1/91912000024/701347466_2/701347466.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/470b9695c50783de5d606a77d99765d1/6ae79f98/66/9x1/91x9/919x1/91912000024/701347466_2/701347466.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 18,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/0e9de5f3c890ce5d9ddbaf4ec72545c4/6ae79f98/76/9x1/91x9/919x1/91912000024/701347467_2/701347467.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/2b8dd923a0a377d41f66bf946c6759a6/6ae79f98/76/9x1/91x9/919x1/91912000024/701347467_2/701347467.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/db052993094d638842061701aa623868/6ae79f98/76/9x1/91x9/919x1/91912000024/701347467_2/701347467.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 19,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/5b7319db41386a4b41f4f013f37c3ebf/6ae79f98/86/9x1/91x9/919x1/91912000024/701347468_2/701347468.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/d9624922da2f7483c82f3d3d107808b6/6ae79f98/86/9x1/91x9/919x1/91912000024/701347468_2/701347468.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/b1d95879d2f3e57e8eff27e6957f99c0/6ae79f98/86/9x1/91x9/919x1/91912000024/701347468_2/701347468.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 20,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/ed262672e7b7d880721f07f144890501/6ae79f98/96/9x1/91x9/919x1/91912000024/701347469_2/701347469.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/260c00858c1c63a4689881d844c91245/6ae79f98/96/9x1/91x9/919x1/91912000024/701347469_2/701347469.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/7f0bb97a4cdd0b13200d131d30260cee/6ae79f98/96/9x1/91x9/919x1/91912000024/701347469_2/701347469.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 21,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/8c9581cb85d65b3b1745d15e7a428a91/6ae79f98/07/9x1/91x9/919x1/91912000024/701347470_2/701347470.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/6211d7a5c5940f27c06ef576973a5e30/6ae79f98/07/9x1/91x9/919x1/91912000024/701347470_2/701347470.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/eb3b3b68e90632d29817117fbf90781d/6ae79f98/07/9x1/91x9/919x1/91912000024/701347470_2/701347470.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 22,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/47460ddc7b90b10a185e33627f77d577/6ae79f98/17/9x1/91x9/919x1/91912000024/701347471_2/701347471.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/a68200e674c3ae18df753c0e454b912c/6ae79f98/17/9x1/91x9/919x1/91912000024/701347471_2/701347471.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/992500bea6b87884b397514a1b1699f1/6ae79f98/17/9x1/91x9/919x1/91912000024/701347471_2/701347471.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 23,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/02260b16a5723f9641298e56715fa00d/6ae79f98/27/9x1/91x9/919x1/91912000024/701347472_2/701347472.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/658733b3949832eff3ae9059f52f3b01/6ae79f98/27/9x1/91x9/919x1/91912000024/701347472_2/701347472.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/33104f4d508c7e98b9ad0fbc62dd7515/6ae79f98/27/9x1/91x9/919x1/91912000024/701347472_2/701347472.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 24,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/4b1d8134875841105827668248e93e33/6ae79f98/37/9x1/91x9/919x1/91912000024/701347473_2/701347473.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/cddfadfbcb943f4b247732335d9ef246/6ae79f98/37/9x1/91x9/919x1/91912000024/701347473_2/701347473.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/b05e1e4e71af6c45aa21cb4c757cd392/6ae79f98/37/9x1/91x9/919x1/91912000024/701347473_2/701347473.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 25,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/040b7248f417836ee6053675fd90b5d4/6ae79f98/47/9x1/91x9/919x1/91912000024/701347474_2/701347474.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/4a8d940008b8b77f602424ad177acca4/6ae79f98/47/9x1/91x9/919x1/91912000024/701347474_2/701347474.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/965820c8f1c1476d316a6b6d35cc9982/6ae79f98/47/9x1/91x9/919x1/91912000024/701347474_2/701347474.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 26,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/1f0c7951225918dc67cc7679018ce27e/6ae79f98/57/9x1/91x9/919x1/91912000024/701347475_2/701347475.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/679f96012e728ebe9fdb665d2b783aca/6ae79f98/57/9x1/91x9/919x1/91912000024/701347475_2/701347475.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/93bc374bd4ec140677599852e503a37e/6ae79f98/57/9x1/91x9/919x1/91912000024/701347475_2/701347475.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 27,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/56660246078e9da752660bd1e51cadc0/6ae79f98/67/9x1/91x9/919x1/91912000024/701347476_2/701347476.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/302955a39f93574e27bfc7ca70dfb4c3/6ae79f98/67/9x1/91x9/919x1/91912000024/701347476_2/701347476.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/df5dc413fbf0eaf3286ff71e58edf1fe/6ae79f98/67/9x1/91x9/919x1/91912000024/701347476_2/701347476.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 28,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/2e03f64d880d48460d06d4ecd184e1d7/6ae79f98/77/9x1/91x9/919x1/91912000024/701347477_2/701347477.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/03d51f89bd3d07bf1f3a302a7daa31b0/6ae79f98/77/9x1/91x9/919x1/91912000024/701347477_2/701347477.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/22e8d0f1a3e2edcf3c76486179999852/6ae79f98/77/9x1/91x9/919x1/91912000024/701347477_2/701347477.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 29,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/83c8af4f54c450ee1dbc750ea119e85d/6ae79f98/87/9x1/91x9/919x1/91912000024/701347478_2/701347478.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/30fcbf39046bf4b077e00f62ec22c1a3/6ae79f98/87/9x1/91x9/919x1/91912000024/701347478_2/701347478.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/e2f60d93b87b948234668282149e2660/6ae79f98/87/9x1/91x9/919x1/91912000024/701347478_2/701347478.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 30,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/e5c47b3c8e9008f7dfca1cf959081f21/6ae79f98/97/9x1/91x9/919x1/91912000024/701347479_2/701347479.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/51d1250378d684a7756cf4ac3658ab98/6ae79f98/97/9x1/91x9/919x1/91912000024/701347479_2/701347479.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/98bd38b4debeb5e97e3b32697a7b81b3/6ae79f98/97/9x1/91x9/919x1/91912000024/701347479_2/701347479.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 31,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/54d4a0036ba93a95582610e4520a05c9/6ae79f98/08/9x1/91x9/919x1/91912000024/701347480_2/701347480.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/f5adc0105ab6707d328b8762332c39f3/6ae79f98/08/9x1/91x9/919x1/91912000024/701347480_2/701347480.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/c9b21312830cc4f83cfef4b3401ac223/6ae79f98/08/9x1/91x9/919x1/91912000024/701347480_2/701347480.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 32,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/85c5998a1d1719d3f1abd37e6133db5c/6ae79f98/18/9x1/91x9/919x1/91912000024/701347481_2/701347481.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/581e861afb388229028cb3b75fa9a749/6ae79f98/18/9x1/91x9/919x1/91912000024/701347481_2/701347481.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/b4a20c2aca9ee6612be40b25e1d2fd57/6ae79f98/18/9x1/91x9/919x1/91912000024/701347481_2/701347481.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 33,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/da3213060c0aecc635459dd4b4f0827c/6ae79f98/28/9x1/91x9/919x1/91912000024/701347482_2/701347482.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/2eeb0805536641a730ac9f4235c2ab1d/6ae79f98/28/9x1/91x9/919x1/91912000024/701347482_2/701347482.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/4fdf02be590219c5b82cc48a8f533eec/6ae79f98/28/9x1/91x9/919x1/91912000024/701347482_2/701347482.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 34,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/967d7884de78e1156c126c7d05143212/6ae79f98/38/9x1/91x9/919x1/91912000024/701347483_2/701347483.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/d904fdbb60b134971af80a36372e57e2/6ae79f98/38/9x1/91x9/919x1/91912000024/701347483_2/701347483.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/fad1c769743850e7040495fb24b66a38/6ae79f98/38/9x1/91x9/919x1/91912000024/701347483_2/701347483.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 35,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/1a4f309fd5966175ef22c95af56ad77f/6ae79f98/48/9x1/91x9/919x1/91912000024/701347484_2/701347484.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/8f34ee742f8ee3f429c103b47e983d6a/6ae79f98/48/9x1/91x9/919x1/91912000024/701347484_2/701347484.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/922340c9884fab16efaff598a5285256/6ae79f98/48/9x1/91x9/919x1/91912000024/701347484_2/701347484.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 36,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/95ab656cd4a63a1c474df59cdc4c0154/6ae79f98/58/9x1/91x9/919x1/91912000024/701347485_2/701347485.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/1724fc826ccc6db2d8258cbd6884530e/6ae79f98/58/9x1/91x9/919x1/91912000024/701347485_2/701347485.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/229d7b064e0fd87091ccbd09c171bd59/6ae79f98/58/9x1/91x9/919x1/91912000024/701347485_2/701347485.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 37,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/ad4c694910655b2e9c9a454152f9efe2/6ae79f98/68/9x1/91x9/919x1/91912000024/701347486_2/701347486.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/4b3715e2380342a46cda9645fa5f6174/6ae79f98/68/9x1/91x9/919x1/91912000024/701347486_2/701347486.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/76c3cec45620e2388a94ce5aa20dec1f/6ae79f98/68/9x1/91x9/919x1/91912000024/701347486_2/701347486.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 38,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/c10eb4741969a30e787d5a58208c2058/6ae79f98/78/9x1/91x9/919x1/91912000024/701347487_2/701347487.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/42885c11bb066a8ab90014955c6371b9/6ae79f98/78/9x1/91x9/919x1/91912000024/701347487_2/701347487.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/d0c2418d972d5c0144fbbfea2093f196/6ae79f98/78/9x1/91x9/919x1/91912000024/701347487_2/701347487.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 39,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/a98a65faaea7d15b6f6e8b1e946235f9/6ae79f98/88/9x1/91x9/919x1/91912000024/701347488_2/701347488.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/b8b919558f4a3209092b7cd737d977af/6ae79f98/88/9x1/91x9/919x1/91912000024/701347488_2/701347488.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/4f75817d4474b08d54454659e1d2612b/6ae79f98/88/9x1/91x9/919x1/91912000024/701347488_2/701347488.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 40,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/32f96b0d3c980a1363e108873a6c7191/6ae79f98/98/9x1/91x9/919x1/91912000024/701347489_2/701347489.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/ec4a31d4d8c53bdbf038a3fce729c581/6ae79f98/98/9x1/91x9/919x1/91912000024/701347489_2/701347489.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/0731bb163eae96d9c9709ef770d9506c/6ae79f98/98/9x1/91x9/919x1/91912000024/701347489_2/701347489.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 41,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/b92c59c620b21ea934087e894914afb0/6ae79f98/09/9x1/91x9/919x1/91912000024/701347490_2/701347490.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/a64462695c0251dcac59dc708a5c541f/6ae79f98/09/9x1/91x9/919x1/91912000024/701347490_2/701347490.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/a3b3f991f1412a09a9312da4f9d4739e/6ae79f98/09/9x1/91x9/919x1/91912000024/701347490_2/701347490.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 42,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/c06227659e3c09ef2639f3591743950f/6ae79f98/19/9x1/91x9/919x1/91912000024/701347491_2/701347491.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/e4b9f99051e7336fd2cf046965a4df90/6ae79f98/19/9x1/91x9/919x1/91912000024/701347491_2/701347491.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/d0b5a3e671e44c24c20c140aab6c23fb/6ae79f98/19/9x1/91x9/919x1/91912000024/701347491_2/701347491.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 43,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/549241d2e241aeecea9097b64ce0926d/6ae79f98/29/9x1/91x9/919x1/91912000024/701347492_2/701347492.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/f36a18dec216f5eee2615c125edc4f9d/6ae79f98/29/9x1/91x9/919x1/91912000024/701347492_2/701347492.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/2e58a146264f216adde1e0dce79d8ab6/6ae79f98/29/9x1/91x9/919x1/91912000024/701347492_2/701347492.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 44,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/d82783fb326fa7a50cf404b534536090/6ae79f98/39/9x1/91x9/919x1/91912000024/701347493_2/701347493.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/7e972200b45b33c0a6edb5c6917d720d/6ae79f98/39/9x1/91x9/919x1/91912000024/701347493_2/701347493.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/679f3cd51f7ca585848c00659d65c3d1/6ae79f98/39/9x1/91x9/919x1/91912000024/701347493_2/701347493.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 45,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/12bca6a2010a07d7d0fc2ab4e649f2f0/6ae79f98/49/9x1/91x9/919x1/91912000024/701347494_2/701347494.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/f3fef88d5fac363d29c98311523cbb76/6ae79f98/49/9x1/91x9/919x1/91912000024/701347494_2/701347494.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/d97d881debbc73543207384ebf8dda51/6ae79f98/49/9x1/91x9/919x1/91912000024/701347494_2/701347494.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 46,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/36bc5a47d0bfbc46c9450f4e69957904/6ae79f98/59/9x1/91x9/919x1/91912000024/701347495_2/701347495.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/18ee1af9482f1a71cf32d68df4245d7b/6ae79f98/59/9x1/91x9/919x1/91912000024/701347495_2/701347495.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/2def819b620407265a33300a5a65d7f8/6ae79f98/59/9x1/91x9/919x1/91912000024/701347495_2/701347495.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 47,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/cbc5ad6a2d1243d74c7914559e4fd0d2/6ae79f98/69/9x1/91x9/919x1/91912000024/701347496_2/701347496.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/1701d486549b2574fa9ddd46aeb182fd/6ae79f98/69/9x1/91x9/919x1/91912000024/701347496_2/701347496.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/7617ba85a67a213fed4de47f4eca5152/6ae79f98/69/9x1/91x9/919x1/91912000024/701347496_2/701347496.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 48,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/dc3b01ce3088abed9af92f4d50ea22ba/6ae79f98/79/9x1/91x9/919x1/91912000024/701347497_2/701347497.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/eb4875af8d4bb09e8b024300ff0e2e1d/6ae79f98/79/9x1/91x9/919x1/91912000024/701347497_2/701347497.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/473b972553db1b27c4abfce218eceb3a/6ae79f98/79/9x1/91x9/919x1/91912000024/701347497_2/701347497.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 49,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/6c9d7f254844d50379501645e3777c49/6ae79f98/89/9x1/91x9/919x1/91912000024/701347498_2/701347498.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/65365ce9ae6abb16da53c8f87dc96988/6ae79f98/89/9x1/91x9/919x1/91912000024/701347498_2/701347498.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/a7170dd68c4ac0e81736320c5147c3a8/6ae79f98/89/9x1/91x9/919x1/91912000024/701347498_2/701347498.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 50,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/85c0fe0b89296d9c02aaa2f05c6e319a/6ae79f98/99/9x1/91x9/919x1/91912000024/701347499_2/701347499.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/e4599516fd56090403db9f822ce6bac3/6ae79f98/99/9x1/91x9/919x1/91912000024/701347499_2/701347499.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/4459a0a91dfb414aa1163210e2c69d21/6ae79f98/99/9x1/91x9/919x1/91912000024/701347499_2/701347499.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 51,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/35c0392b6ee529b7acacf38a7171f88e/6ae79f98/00/9x1/91x9/919x1/91912000024/701347500_2/701347500.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/be6127fba15b792b91991f77f5025d99/6ae79f98/00/9x1/91x9/919x1/91912000024/701347500_2/701347500.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/39689756164aa76a28bf86d9531df6b2/6ae79f98/00/9x1/91x9/919x1/91912000024/701347500_2/701347500.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 52,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/71d4dd225386eb86dbd2d4f1b7fde59f/6ae79f98/10/9x1/91x9/919x1/91912000024/701347501_2/701347501.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/13bdecd55654125f8b6929b12d053010/6ae79f98/10/9x1/91x9/919x1/91912000024/701347501_2/701347501.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/801fb26f448683c2040a18bea4e30b25/6ae79f98/10/9x1/91x9/919x1/91912000024/701347501_2/701347501.540p.narrowv2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 53,
+          "sources": [
+            {
+              "server": "CDN 1080p",
+              "quality": "1080p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/f703e0b63dcc70485f562b1236410401/6ae79f98/20/9x1/91x9/919x1/91912000024/701347502_2/701347502.1080p.nav2.mp4"
+            },
+            {
+              "server": "CDN 720p",
+              "quality": "720p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/d2881cdcc13f166b7871d7a26e90e608/6ae79f98/20/9x1/91x9/919x1/91912000024/701347502_2/701347502.720p.narrowv3.mp4"
+            },
+            {
+              "server": "CDN 540p",
+              "quality": "480p",
+              "format": "mp4",
+              "url": "https://hwztakavideoto.dramaboxdb.com/372210e414d3c51923067cf04a2736a3/6ae79f98/20/9x1/91x9/919x1/91912000024/701347502_2/701347502.540p.narrowv2.mp4"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+.DS_Store
+*.jks
+key.properties
+dist/*.apk
+dist/*.aab
+dist/*_catalog.json
+recon/
+.env
+*.env
+tools/fetch_apishort_catalog.py
+
+
